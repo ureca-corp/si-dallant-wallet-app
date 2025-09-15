@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "278477906637",
+    "project_id": "dallantwallet",
+    "storage_bucket": "dallantwallet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278477906637:android:85483fffc78b3168953f84",
+        "android_client_info": {
+          "package_name": "com.admin.dallantadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qiioMWt1Po7-7qbmLBr9wTYntzT_47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278477906637:android:96b1d5cae1089462953f84",
+        "android_client_info": {
+          "package_name": "com.apps.dallantwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qiioMWt1Po7-7qbmLBr9wTYntzT_47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278477906637:android:6f254bd455937e2d953f84",
+        "android_client_info": {
+          "package_name": "com.apps.dallantwallet2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qiioMWt1Po7-7qbmLBr9wTYntzT_47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278477906637:android:73a99c9a4059f44c953f84",
+        "android_client_info": {
+          "package_name": "com.apps.dallantwallet3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qiioMWt1Po7-7qbmLBr9wTYntzT_47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278477906637:android:903f75709535fcc9953f84",
+        "android_client_info": {
+          "package_name": "com.apps.dallantwallet4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qiioMWt1Po7-7qbmLBr9wTYntzT_47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278477906637:android:f785ef4e33d9e0e4953f84",
+        "android_client_info": {
+          "package_name": "com.dallant.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qiioMWt1Po7-7qbmLBr9wTYntzT_47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278477906637:android:13becc450279788e953f84",
+        "android_client_info": {
+          "package_name": "com.example.si_dallant_wallet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qiioMWt1Po7-7qbmLBr9wTYntzT_47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
